@@ -1,0 +1,199 @@
+O NODO 0 testou o NODO 1 no tempo 30.0 como CORRETO
+0 STATE = [ -1 0 -1 -1 ]
+
+O NODO 1 testou o NODO 2 no tempo 30.0 como CORRETO
+1 STATE = [ -1 -1 0 -1 ]
+
+O NODO 2 testou o NODO 3 no tempo 30.0 como CORRETO
+2 STATE = [ -1 -1 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 30.0 como CORRETO
+3 STATE = [ 0 0 -1 -1 ]
+
+O NODO 1 falhou no tempo 31.0
+
+O NODO 0 testou o NODO 1 no tempo 60.0 como FALHO
+0 STATE = [ -1 1 -1 -1 ]
+
+O NODO 0 testou o NODO 2 no tempo 60.0 como CORRETO
+0 STATE = [ -1 1 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 60.0 como CORRETO
+2 STATE = [ 0 0 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 60.0 como CORRETO
+3 STATE = [ 0 1 0 -1 ]
+
+O NODO 0 testou o NODO 1 no tempo 90.0 como FALHO
+0 STATE = [ -1 1 0 0 ]
+
+O NODO 0 testou o NODO 2 no tempo 90.0 como CORRETO
+0 STATE = [ -1 1 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 90.0 como CORRETO
+2 STATE = [ 0 1 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 90.0 como CORRETO
+3 STATE = [ 0 1 0 -1 ]
+
+O NODO 0 testou o NODO 1 no tempo 120.0 como FALHO
+0 STATE = [ -1 1 0 0 ]
+
+O NODO 0 testou o NODO 2 no tempo 120.0 como CORRETO
+0 STATE = [ -1 1 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 120.0 como CORRETO
+2 STATE = [ 0 1 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 120.0 como CORRETO
+3 STATE = [ 0 1 0 -1 ]
+
+O NODO 1 recuperou no tempo 121.0
+
+O NODO 0 testou o NODO 1 no tempo 150.0 como CORRETO
+0 STATE = [ -1 2 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 150.0 como CORRETO
+2 STATE = [ 0 1 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 150.0 como CORRETO
+3 STATE = [ 0 2 0 -1 ]
+
+O NODO 1 testou o NODO 2 no tempo 151.0 como CORRETO
+1 STATE = [ 0 -1 0 0 ]
+
+O NODO 0 testou o NODO 1 no tempo 180.0 como CORRETO
+0 STATE = [ -1 2 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 180.0 como CORRETO
+2 STATE = [ 0 2 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 180.0 como CORRETO
+3 STATE = [ 0 2 0 -1 ]
+
+O NODO 1 testou o NODO 2 no tempo 181.0 como CORRETO
+1 STATE = [ 0 -1 0 0 ]
+
+O NODO 0 testou o NODO 1 no tempo 210.0 como CORRETO
+0 STATE = [ -1 2 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 210.0 como CORRETO
+2 STATE = [ 0 2 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 210.0 como CORRETO
+3 STATE = [ 0 2 0 -1 ]
+
+O NODO 1 testou o NODO 2 no tempo 211.0 como CORRETO
+1 STATE = [ 0 -1 0 0 ]
+
+O NODO 0 testou o NODO 1 no tempo 240.0 como CORRETO
+0 STATE = [ -1 2 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 240.0 como CORRETO
+2 STATE = [ 0 2 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 240.0 como CORRETO
+3 STATE = [ 0 2 0 -1 ]
+
+O NODO 1 testou o NODO 2 no tempo 241.0 como CORRETO
+1 STATE = [ 0 -1 0 0 ]
+
+O NODO 0 testou o NODO 1 no tempo 270.0 como CORRETO
+0 STATE = [ -1 2 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 270.0 como CORRETO
+2 STATE = [ 0 2 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 270.0 como CORRETO
+3 STATE = [ 0 2 0 -1 ]
+
+O NODO 1 testou o NODO 2 no tempo 271.0 como CORRETO
+1 STATE = [ 0 -1 0 0 ]
+
+O NODO 0 testou o NODO 1 no tempo 300.0 como CORRETO
+0 STATE = [ -1 2 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 300.0 como CORRETO
+2 STATE = [ 0 2 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 300.0 como CORRETO
+3 STATE = [ 0 2 0 -1 ]
+
+O NODO 1 testou o NODO 2 no tempo 301.0 como CORRETO
+1 STATE = [ 0 -1 0 0 ]
+
+O NODO 0 testou o NODO 1 no tempo 330.0 como CORRETO
+0 STATE = [ -1 2 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 330.0 como CORRETO
+2 STATE = [ 0 2 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 330.0 como CORRETO
+3 STATE = [ 0 2 0 -1 ]
+
+O NODO 1 testou o NODO 2 no tempo 331.0 como CORRETO
+1 STATE = [ 0 -1 0 0 ]
+
+O NODO 0 testou o NODO 1 no tempo 360.0 como CORRETO
+0 STATE = [ -1 2 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 360.0 como CORRETO
+2 STATE = [ 0 2 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 360.0 como CORRETO
+3 STATE = [ 0 2 0 -1 ]
+
+O NODO 1 testou o NODO 2 no tempo 361.0 como CORRETO
+1 STATE = [ 0 -1 0 0 ]
+
+O NODO 0 testou o NODO 1 no tempo 390.0 como CORRETO
+0 STATE = [ -1 2 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 390.0 como CORRETO
+2 STATE = [ 0 2 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 390.0 como CORRETO
+3 STATE = [ 0 2 0 -1 ]
+
+O NODO 1 testou o NODO 2 no tempo 391.0 como CORRETO
+1 STATE = [ 0 -1 0 0 ]
+
+O NODO 0 testou o NODO 1 no tempo 420.0 como CORRETO
+0 STATE = [ -1 2 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 420.0 como CORRETO
+2 STATE = [ 0 2 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 420.0 como CORRETO
+3 STATE = [ 0 2 0 -1 ]
+
+O NODO 1 testou o NODO 2 no tempo 421.0 como CORRETO
+1 STATE = [ 0 -1 0 0 ]
+
+O NODO 0 testou o NODO 1 no tempo 450.0 como CORRETO
+0 STATE = [ -1 2 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 450.0 como CORRETO
+2 STATE = [ 0 2 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 450.0 como CORRETO
+3 STATE = [ 0 2 0 -1 ]
+
+O NODO 1 testou o NODO 2 no tempo 451.0 como CORRETO
+1 STATE = [ 0 -1 0 0 ]
+
+O NODO 0 testou o NODO 1 no tempo 480.0 como CORRETO
+0 STATE = [ -1 2 0 0 ]
+
+O NODO 2 testou o NODO 3 no tempo 480.0 como CORRETO
+2 STATE = [ 0 2 -1 0 ]
+
+O NODO 3 testou o NODO 0 no tempo 480.0 como CORRETO
+3 STATE = [ 0 2 0 -1 ]
+
+O NODO 1 testou o NODO 2 no tempo 481.0 como CORRETO
+1 STATE = [ 0 -1 0 0 ]
+
+O NODO 0 testou o NODO 1 no tempo 510.0 como CORRETO
+0 STATE = [ -1 2 0 0 ]
+

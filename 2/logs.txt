@@ -1,0 +1,19 @@
+O NODO 0 testou o NODO 1 no tempo 30.0 como CORRETO
+O NODO 1 testou o NODO 2 no tempo 30.0 como CORRETO
+O NODO 2 testou o NODO 3 no tempo 30.0 como CORRETO
+O NODO 3 testou o NODO 0 no tempo 30.0 como CORRETO
+O NODO 1 falhou no tempo 31.0
+O NODO 0 testou o NODO 1 no tempo 60.0 como FALHO
+O NODO 0 testou o NODO 2 no tempo 60.0 como CORRETO
+O NODO 2 testou o NODO 3 no tempo 60.0 como CORRETO
+O NODO 3 testou o NODO 0 no tempo 60.0 como CORRETO
+O NODO 0 testou o NODO 1 no tempo 90.0 como FALHO
+O NODO 0 testou o NODO 2 no tempo 90.0 como CORRETO
+O NODO 2 testou o NODO 3 no tempo 90.0 como CORRETO
+O NODO 3 testou o NODO 0 no tempo 90.0 como CORRETO
+O NODO 0 testou o NODO 1 no tempo 120.0 como FALHO
+O NODO 0 testou o NODO 2 no tempo 120.0 como CORRETO
+O NODO 2 testou o NODO 3 no tempo 120.0 como CORRETO
+O NODO 3 testou o NODO 0 no tempo 120.0 como CORRETO
+O NODO 1 recuperou no tempo 121.0
+O NODO 0 testou o NODO 1 no tempo 150.0 como CORRETO
